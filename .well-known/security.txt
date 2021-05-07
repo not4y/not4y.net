@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@j-e.me
+Expires: 2027-12-31T22:59:00.000Z
+Encryption: https://www.j-e.me/publickey.security@j-e.me-6ca33fc9c2e19cfc36ce7fa3f15d8918b45a797c.asc
+Preferred-Languages: en, de
+Canonical: https://not4y.net/.well-known/security.txt
+Canonical: https://www.not4y.net/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQRsoz/JwuGc/DbOf6PxXYkYtFp5fAUCaoCFLBsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwyLDEACgkQ8V2JGLRaeXzTrAEA4m2QwYq61r1CeYNshArS
+PNVBqEwsWtawYvCk5PPZ3fIBALsP/WuU6cL0qi8JhunRFNHPKoZhuf00JN0rFIQQ
+oXIE
+=fCTk
+-----END PGP SIGNATURE-----
